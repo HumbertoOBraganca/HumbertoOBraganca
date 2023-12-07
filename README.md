@@ -26,7 +26,9 @@
 </div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makako-Loko&theme=omni&icons=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MakakoLoko&theme=omni)](https://git.io/streak-stats)
+
 <img alt="GitHub Streak" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Makako-Loko&theme=omni&icons=true" />
 
 
