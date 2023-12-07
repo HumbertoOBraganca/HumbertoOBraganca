@@ -21,10 +21,14 @@
 <p align="left" bgcolor="blue"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB)
+<div align="center">
+ <h1>GitHub Stats</h1>
+</div>
 
-## Habilidades
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Makako-Loko&theme=jolly&icons=true)
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makako-Loko&theme=jolly&icons=true)
-## Minhas Contribuições
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Makako-Loko&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makako-Loko&theme=omni&icons=true)[![GitHub Streak](https://streak-stats.demolab.com/?user=MakakoLoko&theme=omni)](https://git.io/streak-stats)
+
+<div align="center">
+<img alt="GitHub Streak" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Makako-Loko&theme=omni&icons=true" />
+</div>
+
+
