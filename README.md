@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My site to present my portfolio.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **humberto.obj@gmail.com**
 
