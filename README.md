@@ -2,7 +2,7 @@
   <img src="readme/ezgif.com-resize.gif">
 </p>
   
-<p align="center">I'm a 2nd year student pursuing graduation in Information System from Universidade Federal do Rio Grande. It has been a pleasure to learn daily and discover new areas and possibilities. I like exploring new technologies and seeing possible applications to solve everyday problems. Furthermore, I met people who helped me a lot to get closer to my dream. I am currently implementing my Data Sciences knowledge, aiming to explore Machine Learning and Cyber ​​Security.</p>
+<p align="center">I'm a 3rd year student pursuing graduation in Information System from Universidade Federal do Rio Grande. It has been a pleasure to learn daily and discover new areas and possibilities. I like exploring new technologies and seeing possible applications to solve everyday problems. Furthermore, I met people who helped me a lot to get closer to my dream. I am currently implementing my Data Sciences knowledge, aiming to explore Machine Learning and Cyber ​​Security.</p>
 <hr>
 
 - 🔭 I’m currently working on **Machine Learning Projects.**
